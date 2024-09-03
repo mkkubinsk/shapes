@@ -1,6 +1,6 @@
-package repository;
+package com.mkkubinsk.shapes.repository;
 
-import model.Shape;
+import com.mkkubinsk.shapes.model.Shape;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;
